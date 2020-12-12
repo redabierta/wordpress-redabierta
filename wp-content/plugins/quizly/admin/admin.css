@@ -1,0 +1,185 @@
+.qy-o-question-box, .qy-o-result-box {
+    padding: 1rem 1.5rem;
+    border: 1px solid #ccc;
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+}
+.qy-o-question-box h3 {
+    margin-top: 0;
+}
+.qy-o-metabox-table {
+    width: 100%;
+    border-spacing: 0;
+}
+.qy-o-metabox-table tr {
+    line-height: 1.75rem;
+}
+.qy-o-metabox-table th, .explanation-label {
+    font-weight: normal;
+    text-align: left;
+    vertical-align: top;
+    min-width: 120px;
+}
+.qy-o-metabox-table .bg-color-row td, .qy-o-metabox-table .text-color-row td {
+    padding: 0.125rem 0;
+}
+.qy_o_add_answer_btn {
+    font-weight: bold;
+    cursor: pointer;
+}
+.qy-o-question-body h4 {
+    font-size: 0.9375rem;
+}
+.button.qy_o_add_image_button {
+    vertical-align: middle;
+}
+.dashicons-trash {
+    vertical-align: middle;
+    cursor: pointer;
+    color: rgba(0, 0, 0, 0.35);
+}
+.dashicons-trash:hover, .dashicons-trash:focus {
+    color: rgba(0, 0, 0, 1);
+}
+.dashicons-format-image, .dashicons-plus {
+    vertical-align: text-top;
+    margin-right: 5px;
+}
+.qy-o-question-title, .qy-o-result-title {
+    position: relative;
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-bottom: 0.125rem;
+}
+.qy-o-question-title:hover, .qy-o-result-title:hover,
+.qy-o-question-title:focus, .qy-o-result-title:focus {
+    cursor: pointer;
+}
+.qy-o-question-title .qy-o-delete-question-button, .qy-o-result-title .qy-o-delete-result-button {
+    position: absolute;
+    right: 0;
+    font-size: 1.25rem;
+}
+.qy-o-question-title .dashicons-menu-alt, .qy-o-result-title .dashicons-menu-alt {
+    line-height: 1.25;
+    margin-left: -0.75rem;
+    margin-right: 0.5rem;
+    opacity: 0.25;
+}
+.qy-o-answers-box {
+    width: 100%;
+}
+.qy-o-answers-box .widefat thead th {
+    font-size: 0.8125rem;
+}
+.qy-o-answers-box .widefat tr td {
+    padding-top: 15px;
+}
+.qy-o-answer-box .qy-o-hidden, .qy-o-metabox-table .qy-o-hidden, .explanation-box, .qy-o-newsletter-details, .bg-color-row.qy-o-hidden, .text-color-row.qy-o-hidden {
+    display: none;
+}
+.explanation-box.qy-o-row-visible, .qy-o-newsletter-details.qy-o-row-visible {
+    display: table-row;
+}
+.qy-o-answer-box td {
+    position: relative;
+}
+.qy-o-metabox-table td, .qy-o-metabox-table .qy-o-question-text, .qy-o-metabox-table .qy-o-answer-text {
+    width: 100%;
+}
+.qy-o-image-upload-field {
+    display: inline-block;
+    position: relative;
+    margin: 0;
+    margin: 0 2rem 0 0;
+}
+#qy_o_quiz_setup_meta_box .qy-o-metabox-table tr td, #qy_o_quiz_setup_meta_box .qy-o-metabox-table tr th,
+#qy_o_quiz_extras_meta_box .qy-o-metabox-table tr td, #qy_o_quiz_extras_meta_box .qy-o-metabox-table tr th,
+#qy_o_quiz_results_meta_box .qy-o-metabox-table tr td, #qy_o_quiz_results_meta_box .qy-o-metabox-table tr th,
+.qy_o_quiz_page_qy-o-settings .qy-o-metabox-table tr td, .qy_o_quiz_page_qy-o-settings .qy-o-metabox-table tr th {
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
+}
+.qy-o-remove-image-button {
+    position: absolute;
+    left: 7px;
+    top: 7px;
+    visibility: hidden;
+}
+.qy-o-image-upload-field:hover .qy-o-remove-image-button, .qy-o-image-upload-field:focus .qy-o-remove-image-button {
+    visibility: visible;
+}
+.wp-core-ui .button-secondary {
+    vertical-align: top;
+}
+.page-title-action .dashicons {
+    margin-right: 5px;
+    vertical-align: text-top;
+}
+.wp-core-ui #qy-o-download-emails {
+    margin-top: 13px;
+    margin-left: 10px;
+}
+#qy_o_quiz_extras_meta_box {
+    display: none;
+}
+.qy-o-remove-image-button .dashicons {
+    color: #0071a1;
+    vertical-align: text-top;
+    padding-bottom: 4px;
+}
+.qy-o-question-setup-box {
+    margin-top: 1.25rem;
+}
+.qy-o-question-setup-box, .qy-o-result-flex {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+    align-content: stretch;
+}
+#qy-o-quiz-results-box .qy-o-image-upload-field {
+    margin-top: 0.4rem;
+}
+.qy-o-result-flex {
+    justify-content: space-between;
+}
+.qy-o-answers-heading {
+    font-size: 0.875rem;
+    font-weight: 700;
+    margin-top: 2rem;
+}
+.qy-o-result-metabox-table {
+    max-width: 65%;
+}
+.qy-o-result-image-upload-field {
+    margin-right: 0;
+}
+.qy-o-cel-center {
+    text-align: center;
+}
+.qy-o-cel-right {
+    text-align: right;
+}
+.qy_o_quiz_page_qy-o-settings .wp-header-end {
+    margin-bottom: 1.25rem;
+}
+.qy_o_quiz_page_qy-o-settings .qy-o-metabox-table th {
+    min-width: 170px;
+    line-height: 2.5rem;
+}
+.qy-o-question-inside, .qy-o-result-inside {
+    display: none;
+    margin-top: 1.5rem;
+}
+.description.qy-o-metabox-description {
+    margin: 0.5rem 0 0.75rem 0;
+}
+.meta-box-sortables input[type=text] {
+    margin-bottom: 0.25rem;
+}
+.meta-box-sortables textarea {
+    margin-bottom: -0.25rem;
+}
+.qy-o-answer-column-option label {
+    margin-right: 0.5rem;
+}

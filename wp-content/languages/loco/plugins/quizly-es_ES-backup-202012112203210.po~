@@ -1,0 +1,432 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Quizly\n"
+"POT-Creation-Date: 2020-05-29 22:09+0300\n"
+"PO-Revision-Date: 2020-12-11 22:01+0000\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: es_ES\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.6; wp-5.5.3"
+
+#: admin/admin.js:47 admin/admin.js:131 admin/admin.js:174 admin/admin.js:243
+#: admin/admin.min.js:1 admin/admin.php:375 admin/admin.php:658
+msgid "Image"
+msgstr ""
+
+#: admin/admin.js:183 admin/admin.min.js:1 admin/admin.php:354
+msgid "Background color"
+msgstr ""
+
+#: admin/admin.js:185 admin/admin.min.js:1 admin/admin.php:359
+msgid "Text color"
+msgstr ""
+
+#: admin/admin.js:294
+msgid "There must be at least one question."
+msgstr ""
+
+#: admin/admin.js:584
+msgid "Select image"
+msgstr ""
+
+#: admin/admin.js:594
+msgid "Use this image"
+msgstr ""
+
+#: admin/admin.js:635
+msgid "You need at least two answers."
+msgstr ""
+
+#: admin/admin.js:671
+msgid "There must be at least one result."
+msgstr ""
+
+#: admin/admin.php:28
+msgid "Editor"
+msgstr ""
+
+#: admin/admin.php:29 admin/admin.php:752 admin/admin.php:753
+msgid "Settings"
+msgstr ""
+
+#: admin/admin.php:47
+msgid "Extras"
+msgstr ""
+
+#: admin/admin.php:55
+msgid "Setup"
+msgstr ""
+
+#: admin/admin.php:63
+msgid "Questions"
+msgstr ""
+
+#: admin/admin.php:71
+msgid "Results"
+msgstr ""
+
+#: admin/admin.php:79 admin/admin.php:713
+msgid "Shortcode"
+msgstr ""
+
+#: admin/admin.php:121
+msgid "Auto-scroll to the next question?"
+msgstr ""
+
+#: admin/admin.php:127
+msgid "Randomize order of choices"
+msgstr ""
+
+#: admin/admin.php:133
+msgid "Add share buttons to the quiz result"
+msgstr ""
+
+#: admin/admin.php:145
+msgid "Ask users for their email address before showing the result"
+msgstr ""
+
+#: admin/admin.php:152 admin/admin.php:486
+msgid "Title"
+msgstr ""
+
+#: admin/admin.php:154 frontend/quiz.php:222
+msgid "Sign up to see your result!"
+msgstr ""
+
+#: admin/admin.php:158 admin/admin.php:215 admin/admin.php:492
+msgid "Description"
+msgstr ""
+
+#: admin/admin.php:160 frontend/quiz.php:223
+msgid ""
+"Get the latest quizzes delivered right to your inbox with our newsletter."
+msgstr ""
+
+#: admin/admin.php:166
+msgid "Allow users to skip the subscription form"
+msgstr ""
+
+#: admin/admin.php:177 admin/admin.php:179 admin/admin.php:180
+msgid "Columns"
+msgstr ""
+
+#: admin/admin.php:181
+msgid "Arrange the answers in how many columns?"
+msgstr ""
+
+#: admin/admin.php:186 admin/admin.php:796
+msgid "Custom CSS"
+msgstr ""
+
+#: admin/admin.php:189
+msgid "Add styles that are specific for this quiz"
+msgstr ""
+
+#: admin/admin.php:211
+msgid "Show title"
+msgstr ""
+
+#: admin/admin.php:223
+msgid "Weighted score"
+msgstr ""
+
+#: admin/admin.php:224
+msgid ""
+"Assign numeric weight values to answers in place of the \"correct-wrong\" "
+"(Trivia) system. Useful for complex scoring systems or \"Personality\" "
+"quizzes."
+msgstr ""
+
+#: admin/admin.php:231
+msgid "Answer explanations"
+msgstr ""
+
+#: admin/admin.php:232
+msgid ""
+"Provide explanation text for each question, revealed after the user picks an "
+"answer."
+msgstr ""
+
+#: admin/admin.php:247
+msgid "Add questions & answers. Drag to reorder."
+msgstr ""
+
+#: admin/admin.php:268
+msgid "Add Question"
+msgstr ""
+
+#: admin/admin.php:281
+msgid "Add results for the possible score ranges. Drag to reorder."
+msgstr ""
+
+#: admin/admin.php:301
+msgid "Add Result"
+msgstr ""
+
+#: admin/admin.php:336
+msgid "Delete question"
+msgstr ""
+
+#: admin/admin.php:346
+msgid "Set as background"
+msgstr ""
+
+#: admin/admin.php:367
+msgid "Answers"
+msgstr ""
+
+#: admin/admin.php:376
+msgid "Text"
+msgstr ""
+
+#: admin/admin.php:377
+msgid "Correct"
+msgstr ""
+
+#: admin/admin.php:378
+msgid "Weight"
+msgstr ""
+
+#: admin/admin.php:379 admin/quiz-log.php:178
+msgid "Delete"
+msgstr ""
+
+#: admin/admin.php:411
+msgid "Explanation"
+msgstr ""
+
+#: admin/admin.php:420
+msgid "Add Answer"
+msgstr ""
+
+#: admin/admin.php:447
+msgid "Delete answer"
+msgstr ""
+
+#: admin/admin.php:472
+msgid "Delete result"
+msgstr ""
+
+#: admin/admin.php:480 admin/quiz-log.php:148
+msgid "Score"
+msgstr ""
+
+#: admin/admin.php:482
+msgid "from"
+msgstr ""
+
+#: admin/admin.php:482
+msgid "to"
+msgstr ""
+
+#: admin/admin.php:523 admin/quiz-log.php:293 quizly.php:163
+msgid "Insufficient privileges!"
+msgstr ""
+
+#: admin/admin.php:682
+msgid "Remove image"
+msgstr ""
+
+#: admin/admin.php:712 admin/quiz-log.php:145
+msgid "Quiz Title"
+msgstr ""
+
+#: admin/admin.php:714 admin/quiz-log.php:150
+msgid "Date"
+msgstr ""
+
+#: admin/admin.php:770
+msgid "Quiz Settings"
+msgstr ""
+
+#: admin/admin.php:782
+msgid "Facebook App ID"
+msgstr ""
+
+#: admin/admin.php:785
+msgid "Needed for sharing on Facebook."
+msgstr ""
+
+#: admin/admin.php:789
+msgid "Disable the plugin styles"
+msgstr ""
+
+#: admin/admin.php:792
+msgid ""
+"Turn off the plugin default styles and leave it to your theme to render the "
+"quizzes."
+msgstr ""
+
+#: admin/admin.php:799
+msgid ""
+"Global styles (for all quizzes). These would be applied independently of the "
+"previous option."
+msgstr ""
+
+#: admin/admin.php:805
+msgid "Save"
+msgstr ""
+
+#: admin/admin.php:845
+msgid "Not allowed"
+msgstr ""
+
+#: admin/quiz-log.php:17
+msgid "Entry"
+msgstr ""
+
+#: admin/quiz-log.php:18 admin/quiz-log.php:388
+msgid "Entries"
+msgstr ""
+
+#: admin/quiz-log.php:86
+msgid "No entries avaliable."
+msgstr ""
+
+#: admin/quiz-log.php:146
+msgid "User Type"
+msgstr ""
+
+#: admin/quiz-log.php:147
+msgid "User Name"
+msgstr ""
+
+#: admin/quiz-log.php:149
+msgid "Email Address"
+msgstr ""
+
+#: admin/quiz-log.php:303
+msgid "Ah, this is forbidden, I am afraid."
+msgstr ""
+
+#: admin/quiz-log.php:363 admin/quiz-log.php:364
+msgid "Log"
+msgstr ""
+
+#: admin/quiz-log.php:406
+msgid "Quiz Log"
+msgstr ""
+
+#: admin/quiz-log.php:407
+msgid "Download a CSV file with submitted email addresses"
+msgstr ""
+
+#: admin/quiz-log.php:407
+msgid "Emails CSV"
+msgstr ""
+
+#: frontend/quiz.js:113 frontend/quiz.min.js:1
+msgid "Correct!"
+msgstr ""
+
+#: frontend/quiz.js:117 frontend/quiz.min.js:1
+msgid "Wrong!"
+msgstr ""
+
+#: frontend/quiz.js:139 frontend/quiz.min.js:1
+msgid ""
+"It seems there are some unanswered questions. You need to take care of them "
+"in order to see the final result."
+msgstr ""
+
+#: frontend/quiz.js:188 frontend/quiz.min.js:1
+msgid "Copied!"
+msgstr ""
+
+#: frontend/quiz.js:227 frontend/quiz.min.js:1
+msgid "Retake quiz"
+msgstr ""
+
+#: frontend/quiz.js:337 frontend/quiz.min.js:1
+msgid "Please enter a valid email address!"
+msgstr ""
+
+#: frontend/quiz.php:208
+msgid "Share"
+msgstr ""
+
+#: frontend/quiz.php:209
+msgid "Tweet"
+msgstr ""
+
+#: frontend/quiz.php:210
+msgid "Copy Link"
+msgstr ""
+
+#: frontend/quiz.php:227
+msgid "No, thanks!"
+msgstr ""
+
+#: frontend/quiz.php:232
+msgid "Your email address"
+msgstr ""
+
+#: frontend/quiz.php:233
+msgid "Sign up"
+msgstr ""
+
+#: quizly.php:49
+msgid "Quizly"
+msgstr ""
+
+#: quizly.php:50
+msgid "Quiz"
+msgstr ""
+
+#: quizly.php:51
+msgid "All Quizzes"
+msgstr ""
+
+#: quizly.php:52
+msgid "Add New"
+msgstr ""
+
+#: quizly.php:53
+msgid "Add New Quiz"
+msgstr ""
+
+#: quizly.php:54
+msgid "Edit"
+msgstr ""
+
+#: quizly.php:55
+msgid "Edit Quiz"
+msgstr ""
+
+#: quizly.php:56
+msgid "New Quiz"
+msgstr ""
+
+#: quizly.php:57
+msgid "View"
+msgstr ""
+
+#: quizly.php:58
+msgid "View Quiz"
+msgstr ""
+
+#: quizly.php:59
+msgid "Search Quizzes"
+msgstr ""
+
+#: quizly.php:60
+msgid "No Quizzes found"
+msgstr ""
+
+#: quizly.php:61
+msgid "No Quizzes found in Trash"
+msgstr ""
+
+#: quizly.php:62
+msgid "Parent Quiz Review"
+msgstr ""
